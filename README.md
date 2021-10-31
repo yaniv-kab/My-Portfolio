@@ -1,3 +1,3 @@
-# My-Portfolio
-# To open - https://yanivdev-portfolio.000webhostapp.com/
+# My Portfolio
+# To website - https://yanivdev-portfolio.com/
 Portfolio based HTML,CSS and JavaScript
